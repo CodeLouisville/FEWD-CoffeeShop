@@ -15,7 +15,7 @@ Individual .png files of the mockups are in [assets/mockups](https://github.com/
 All photos, icons, logos, and fonts are located in [assets/mockups](https://github.com/CodeLouisville/FEWD-CoffeeShop/tree/main/assets/).
 
 
-[Adobe XD Presentation](https://xd.adobe.com/view/74d1ff4a-cc11-4b7b-bc69-0057fe992a9c-2182/?fullscreen){:target="_blank"}
+[Adobe XD Presentation](https://xd.adobe.com/view/74d1ff4a-cc11-4b7b-bc69-0057fe992a9c-2182/?fullscreen target="_blank")
 
 
 --
